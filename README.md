@@ -2,9 +2,7 @@
 
 # 👋 Hello, I'm Prasad Suryavanshi
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3595F7&center=true&vCenter=true&width=435&lines=BTech+Student+%7C+CSE+Cybersecurity;Data+%26+Security+Enthusiast;Building+Secure+Software+%26+pipelines" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=B.Tech+Student++%7C+Cybersecurity;Data+Analysis+%7C+Security+Enthusiast" alt="Typing SVG" /></a>
 
 <br/>
 

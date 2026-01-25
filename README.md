@@ -17,8 +17,7 @@ This GitHub is the home for my learning journey and projects, where I apply theo
 ---
 
 ### 📈 **GitHub Stats**
-*(A visual snapshot of your activity. You can generate this later using services like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))*
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 ---
 
 ### 📫 **Let's Connect & Collaborate**

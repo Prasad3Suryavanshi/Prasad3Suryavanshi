@@ -42,7 +42,7 @@ Specializing in **Cybersecurity** while exploring **Data Analysis** to find patt
 ### 📈 **GitHub Stats**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prasad3suryavanshi&show_icons=true&theme=radical&hide_title=true" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Orasad3Suryavanshi&show_icons=true&theme=radical&hide_title=true" alt="stats" />
 </p>
 
 ---

@@ -25,13 +25,12 @@ Specializing in **Cybersecurity** while exploring **Data Analysis** to find patt
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
 
 <br/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-blue?style=flat&logo=nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-333333?style=flat&logo=metasploit&logoColor=white" />
 
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
